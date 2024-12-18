@@ -20,7 +20,7 @@ Uma aplicação web desenvolvida com Streamlit para análise detalhada de partid
 
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_REPOSITORIO]
+git clone [URL_DO_REPOSITORIO](https://github.com/felipemelobginfnet/AT_DDDA_ST.git]
 cd analise-futebol
 ```
 
